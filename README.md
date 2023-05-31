@@ -10,4 +10,4 @@ Cliente de API de CBTis 169
 * Crear usuarios
 * Borrar usuarios
 
-![Alumnos CBTis](https://cbtis.net/media/alumnos4.jpg))
+https://cbtis169.net/media/alumnos4.jpg
