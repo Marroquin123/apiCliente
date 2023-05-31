@@ -6,8 +6,8 @@ Cliente de API de CBTis 169
 ## Funciones
 
 ********
-Leer usuarios
-Actualizar usuarios
-Crear usuarios
-Borrar usuarios
+* Leer usuarios
+* Actualizar usuarios
+* Crear usuarios
+* Borrar usuarios
 
